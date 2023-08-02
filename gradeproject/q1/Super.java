@@ -2,7 +2,7 @@ package com.gradeproject.q1;
 
 class SuperDepartment {
 	public String departmentName() {
-		return "Super Department";
+		return "Super Depar
 	}
 
 	public String getTodaysWork() {
